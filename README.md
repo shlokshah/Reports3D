@@ -9,8 +9,8 @@ There exists a vast semantic gap between doctors and patients when it comes to m
 <img src="segmentation.png" height="450" />
 Comparison of ground truth with predicted images
 <br>
-#### Performance:
 
+#### Performance:
 | Mean Dice Similarity Coefficient | Median Dice Similarity Coefficient |
 | ------------- | ------------- |
 | 0.87  | 0.90  |
