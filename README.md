@@ -8,10 +8,13 @@ There exists a vast semantic gap between doctors and patients when it comes to m
 #### Image segmentation results:
 <img src="segmentation.png" height="450" />
 Comparison of ground truth with predicted images
-
+<br>
+#### Performance:
 | Mean Dice Similarity Coefficient | Median Dice Similarity Coefficient |
 | ------------- | ------------- |
 | 0.87  | 0.90  |
 
 #### Final output:
 <img src="output_screenshot.JPG" height="450" />
+
+### See it in action [here] (https://drive.google.com/file/d/1ipvxDdG15vjd46c9VfBblj-jWBFBHM1U/view?usp=sharing)
