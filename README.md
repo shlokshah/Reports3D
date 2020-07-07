@@ -6,9 +6,12 @@ There exists a vast semantic gap between doctors and patients when it comes to m
 #### Architectue of model: U-NET Model
 
 #### Image segmentation results:
-<img src="" />
+<img src="segmentation.png" height="450" />
 Comparison of ground truth with predicted images
 
 | Mean Dice Similarity Coefficient | Median Dice Similarity Coefficient |
 | ------------- | ------------- |
 | 0.87  | 0.90  |
+
+#### Final output:
+<img src="output_screenshot.JPG" height="450" />
