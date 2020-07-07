@@ -17,4 +17,4 @@ Comparison of ground truth with predicted images
 #### Final output:
 <img src="output_screenshot.JPG" height="450" />
 
-### See it in action [here] (https://drive.google.com/file/d/1ipvxDdG15vjd46c9VfBblj-jWBFBHM1U/view?usp=sharing)
+### See it in action [here](https://drive.google.com/file/d/1ipvxDdG15vjd46c9VfBblj-jWBFBHM1U/view?usp=sharing)
